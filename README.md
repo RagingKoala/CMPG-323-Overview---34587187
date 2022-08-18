@@ -6,4 +6,4 @@ The branching strategy that I will use for the projects is Trunk-based Developme
 
 The .gitignore file will be used to hide certain files that GitHub should ignore when committing my projects to my GitHub repository
 
-To secure credentials and sensitive information, I will ensure that these types of information will not be added or committed to any of my projects. I will also be disabling forking for my projects as this allows people to copy my repository which could lead to the spreading of sensitive information, if sensitive information happens to end up on one of my projects.
+To secure credentials and sensitive information, I will ensure that these types of information will not be added or committed to any of my projects.
