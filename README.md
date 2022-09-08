@@ -16,4 +16,4 @@ Diagram explaining project and repository context:
 ![CMPG 323 repo digram](https://user-images.githubusercontent.com/111426311/185337625-8c86e545-df07-4ec7-9402-354e80bc8859.png)
 
 ## Project 2 - API
-The CRUD RESTful API should be used to connect to database storing IoT device data. The API contains get, post, patch and delete methods to manage, monitor and maintain the IoT device database.
+The CRUD RESTful API should be used to connect to a database storing IoT device data. The API contains get, post, patch and delete methods to manage, monitor and maintain the IoT device database.
