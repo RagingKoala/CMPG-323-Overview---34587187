@@ -14,3 +14,5 @@ To secure credentials and sensitive information, I will ensure that these types 
 ## Diagram
 Diagram explaining project and repository context:
 ![CMPG 323 repo digram](https://user-images.githubusercontent.com/111426311/185337625-8c86e545-df07-4ec7-9402-354e80bc8859.png)
+
+## Project 2 - API
